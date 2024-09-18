@@ -7,12 +7,6 @@ I'm a passionate Computer Science student with a love for coding and technology.
 - 💻 Interested in software development, algorithms, and artificial intelligence  
 - 🚀 Always eager to learn more about new technologies  
 
-## 📚 Projects  
-Here are a few projects I've worked on:  
-- [Project 1](link_to_your_project_1): Brief description of what this project does.  
-- [Project 2](link_to_your_project_2): Brief description of what this project does.  
-- [Project 3](link_to_your_project_3): Brief description of what this project does.  
-
 ## 💬 Let's Connect  
 Feel free to reach out if you want to discuss tech, collaborate on projects, or share ideas! You can find me on:  
 - [LinkedIn](your_linkedin_profile)  
